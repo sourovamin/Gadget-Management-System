@@ -1,0 +1,30 @@
+
+#Sign-In{
+margin-top:70px;
+margin-bottom:30px;
+margin-right:auto;
+margin-left:auto;
+border:3px solid #a1a1a1;
+padding:9px 35px; 
+width:350px;border-radius:20px;
+box-shadow: 7px 7px 6px;
+}
+#button{
+width:110px;
+height:50px;
+font-weight:bold;
+font-size:25px;
+margin-left:60px;
+}
+#reg{
+width:400px;
+height:50px;
+font-weight:bold;
+font-size:30px;
+background:#ff0000;
+margin-left:auto;
+margin-right:auto;
+display:block;
+}
+
+
